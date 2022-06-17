@@ -1,0 +1,27 @@
+button{
+    color:white;
+    background-color: black;
+    font-size: large;
+    height: 50px;
+    width: 100px;
+}
+h1{
+    color: gold;
+}
+body{
+    background-color: black;
+}
+.main{
+    position: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.pokeholder{
+    position: relative;
+    margin-top: 10vmax;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+}
